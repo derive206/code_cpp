@@ -1,1 +1,4 @@
 #cout << fixed << setprecision(3) << d << endl;  // In biến float or double với 3 chữ số thập phân
+for (biến ; điều kiện true ; bước chạy của biến){
+}
+function int thì phải return int
