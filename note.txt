@@ -1,1 +1,1 @@
-
+#cout << fixed << setprecision(3) << d << endl;  // In biến float or double với 3 chữ số thập phân
