@@ -2,3 +2,4 @@
 for (biến ; điều kiện true ; bước chạy của biến){
 }
 function int thì phải return int
+Con trỏ (pointer):
